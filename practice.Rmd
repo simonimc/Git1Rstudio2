@@ -19,3 +19,7 @@ df<- as.data.frame(cbind(x, y))
 plot(df$x, df$y)
 ```
 
+```{r}
+sample<- read.csv('test_data.csv')
+```
+
